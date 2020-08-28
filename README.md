@@ -1,8 +1,8 @@
-## Project Ideas
+## Project Ideas 💡
 
 Ideas that come into my mind (or my friend's) and I thought It would be a great idea to record it for later use. Also I won't forget these great ideas.
 
-## Ideas
+## Ideas 💡
 
 - [Portfolio](https://github.com/gartou/portfolio) - just a simple portfolio for introduce myself for the interviewers. 
   - Base idea - [Me](https://github.com/gartou)
